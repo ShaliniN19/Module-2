@@ -13,7 +13,15 @@ To write a Python program that defines a function which accepts two values and r
 ## 🧾 Program
 
 Add code Here
-
+```
+def result(a,b):
+    return a%b
+a=int(input())
+b=int(input())
+print(f"modulo is {result(a,b)}")
+```
 ## Output
+<img width="971" height="278" alt="image" src="https://github.com/user-attachments/assets/c2a425cc-0d90-4610-b08b-9178ac42f881" />
 
 ## Result
+thus the program executed sucessfully
